@@ -1,0 +1,19 @@
+{
+  "name": "dash-button-js",
+  "version": "0.1.0",
+  "description": "An application to respond to Amazon Dash buttons on my home network.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tfitch/dash-button-js.git"
+  },
+  "author": "Tyler Fitch - github@tfitch.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tfitch/dash-button-js/issues"
+  },
+  "homepage": "https://github.com/tfitch/dash-button-js#readme"
+}
