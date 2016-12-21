@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tfitch/dash-button-js#readme",
   "dependencies": {
-    "node-dash-button": "^0.3.0"
+    "node-dash-button": "^0.3.0",
+    "twitter": "^1.2.5"
   }
 }
